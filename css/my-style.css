@@ -154,6 +154,11 @@ body {
 	background: var(--white-text);
 	border-radius: 0.5em;
 	padding: 1em;
+	height: 35em;
+}
+.item-card img {
+	height: 18em;
+	object-fit: cover;
 }
 
 .card-body {
